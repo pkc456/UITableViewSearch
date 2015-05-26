@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D804F1AE-268C-4286-B134-D82A546455C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SearchInTable</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE95E9124E1C730F952A1A9508620961A49CEBD0</key>
+		<string>https://github.com/pkc456/UITableViewSearch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SearchInTable/SearchInTable.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE95E9124E1C730F952A1A9508620961A49CEBD0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pkc456/UITableViewSearch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE95E9124E1C730F952A1A9508620961A49CEBD0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE95E9124E1C730F952A1A9508620961A49CEBD0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UITableViewSearch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
